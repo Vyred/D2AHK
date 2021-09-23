@@ -3,6 +3,7 @@ Macros for D2, to save your hands
 You need the program from the link below, AutoHotKey
 https://www.autohotkey.com/
 
+!View in raw, should be top right of this!
 Copy the following into a notepad and save as an .ahk file, name it whatever. Run it with autohotkey
 
 ; ==============================================================================
