@@ -1,11 +1,16 @@
-# D2AHK View in Raw or download file
+# D2AHK View in Raw or Download File
 
 Macros for D2, to save your hands 
 You need the program from the link below, AutoHotKey
 https://www.autohotkey.com/
 
 !View in raw, should be top right of this!
-Copy the following into a notepad and save as an .ahk file, name it whatever. Run it with autohotkey, you can edit in notepad crtl+f (find) the line: #IfWinActive, Diablo II then change it as needed for the remaster, exclude the (32 bit) or (64 bit). It can also be found by:
+Copy the following into a notepad and save as an .ahk file, name it whatever. Run it with autohotkey, you can edit in notepad. 
+For remaster find the line (crtl+f): 
+
+#IfWinActive, Diablo II 
+
+then change the "Diablo II" to the name of the .exe, It can also be found by:
 right clicking it in task manager -> Properties-> Details -> original file name and exclude the .exe
 
 
