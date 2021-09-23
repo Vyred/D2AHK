@@ -1,4 +1,4 @@
-# D2AHK
+# D2AHK View in Raw
 Macros for D2, to save your hands 
 You need the program from the link below, AutoHotKey
 https://www.autohotkey.com/
